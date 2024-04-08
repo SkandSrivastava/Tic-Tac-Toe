@@ -25,7 +25,5 @@ Tic-Tac-Toe is a two-player game where each player takes turns marking spaces on
 ## Contributing
 If you have any suggestions, improvements, or feature requests, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 Enjoy playing Tic-Tac-Toe! Feel free to fork this repository and customize it to your liking. If you find it helpful or enjoyable, don't forget to star the repo! 🌟
